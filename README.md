@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am experienced data scientist with expertise building **end-to-end statistics driven data science** solution for data products. I also have experience performing qualitative statistical driven research. My expertise include **developing, testing and deploying** machine learning models for **real life applications**. I am also conversant in implementing Agile methodologies and CI/CD pipeline in the software development life cycle(SDLC),  in a distributed and high performance computing environment. This repos contains some of the examples of my approach to applying data science to real life problems.
+I am experienced data scientist with expertise building **end-to-end statistics driven data science** solution for data products. I also have experience performing qualitative **statistical driven research.** My expertise include **developing, testing and deploying** machine learning models for **real life applications**. I am also conversant in implementing Agile methodologies and CI/CD pipeline in the software development life cycle(SDLC),  in a distributed and high performance computing environment. This repos contains some of the examples of my approach to applying data science to real life problems.
 
 Additionally, I am third year PhD student at the computer science department Boise State University. My research foucses on using machine learning to predict snow products, like density, depth and snow water equivalence. 
 
