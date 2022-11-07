@@ -13,7 +13,7 @@ Additionally, I am third year PhD student at the computer science department Boi
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"  alt="Jenkins Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg"  alt="Terraform Logo" width="70px" height="70px" />
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  alt="Git Logo" width="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  alt="GitHub Logo" width="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS Logo" width="70px" height="70px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  alt="Git Logo" width="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  alt="GitHub Logo" width="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS Logo" width="70px" height="70px" /> <img src="(https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)"  alt="Git Logo" width="70px" height="70px" /> 
 
 
 <!--
